@@ -29,6 +29,7 @@ Show your system's relevant OOM behaviour: ` doom policy`
 
 
 ### Building From Source
+` make `
 `sudo make install` 
 
 ### Contiributing
