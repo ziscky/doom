@@ -15,8 +15,10 @@ of the GitHub repository. Supported OS/Arch:
  1. Linux amd64
  
 ### Getting Started
-` Note: Works by reading the proc pseudo fs so you may need to run the cmds as root `  
+` Works by reading the proc pseudo fs so you may need to run the cmds as root `  
 ` Also make sure the package: procps-ng is installed.(provides ps|pgrep etc)`  
+
+
 Help: `doom`
 Rank all PIDs by best OOM score: ` doom best `  
 Rank all PIDs by worst OOM score: ` doom worst `  
@@ -29,7 +31,7 @@ Show your system's relevant OOM behaviour: ` doom policy`
 
 
 ### Building From Source
-` make `
+` make `  
 `sudo make install` 
 
 ### Contiributing
