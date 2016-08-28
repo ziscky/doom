@@ -13,11 +13,13 @@ of the GitHub repository. Supported OS/Arch:
  1. Linux amd64
  
 ### Getting Started
-` Note: Works by reading the proc pseudo fs so you may need to run the cmds as root `
-PID with best OOM score: ` doom best `
-PID with worst OOM score: ` doom worst `
-Top 10 worst OOM scores: ` doom worst 10`
-Top 10 best OOM scores: ` doom best 10`
+` Note: Works by reading the proc pseudo fs so you may need to run the cmds as root `  
+
+PID with best OOM score: ` doom best `  
+PID with worst OOM score: ` doom worst `  
+Top 10 worst OOM scores: ` doom worst 10`  
+Top 10 best OOM scores: ` doom best 10`  
+
 
 ### Building From Source
 `sudo make install` 
