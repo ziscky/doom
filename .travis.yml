@@ -3,3 +3,5 @@ language: go
 go:
   - 1.6
 
+install:
+  - go get gopkg.in/urfave/cli.v1
