@@ -2,7 +2,9 @@
 [![Build Status](https://goreportcard.com/badge/github.com/ziscky/zist)](https://goreportcard.com/report/github.com/ziscky/mock-pesa)
 [![Build Status](https://travis-ci.org/ziscky/doom.svg?branch=master)](https://travis-ci.org/ziscky/doom)
 
-A simple program to find PIDs with the best/worst OOM scores
+A simple program to find PIDs with the best/worst OOM scores. Also gives policy information on how the system
+would behave in the case of an OOM Error e.g(Kernel Panic,Kill overcommiting process e.t.c). Support for
+oom_killer controller patch, contributed by Nikanth Karthikesan is WIP.
 
 ### Precompiled binaries
 
