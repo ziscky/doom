@@ -1,5 +1,5 @@
 # doom
-[![Build Status](https://goreportcard.com/badge/github.com/ziscky/zist)](https://goreportcard.com/report/github.com/ziscky/mock-pesa)
+[![Build Status](https://goreportcard.com/badge/github.com/ziscky/doom)](https://goreportcard.com/report/github.com/ziscky/doom)
 [![Build Status](https://travis-ci.org/ziscky/doom.svg?branch=master)](https://travis-ci.org/ziscky/doom)
 
 A simple program to find PIDs with the best/worst OOM scores. Also gives policy information on how the system
