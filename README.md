@@ -25,8 +25,8 @@ Rank all PIDs by worst OOM score: ` doom worst `
 PID with worst OOM score: ` doom next `  
 Top 10 worst OOM scores: ` doom worst 10`  
 Top 10 best OOM scores: ` doom best 10`  
-Inspect a particular process by name(in this case chrome): ` doom inspect chrome `
-Inspect a particular process by PID: ` doom inspect 23456 `
+Inspect a particular process by name(in this case chrome): ` doom inspect chrome `  
+Inspect a particular process by PID: ` doom inspect 23456 `  
 Show your system's relevant OOM behaviour: ` doom policy`  
 
 
