@@ -19,7 +19,7 @@ of the GitHub repository. Supported OS/Arch:
 ` Also make sure the package: procps-ng is installed.(provides ps|pgrep etc)`  
 
 
-Help: `doom`
+Help: `doom`  
 Rank all PIDs by best OOM score: ` doom best `  
 Rank all PIDs by worst OOM score: ` doom worst `  
 PID with worst OOM score: ` doom next `  
