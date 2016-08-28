@@ -22,14 +22,14 @@ Works by reading the /proc pseudo fs so you may need to run the cmds as root
 Also make sure the package: procps-ng is installed.(provides ps|pgrep etc)  
 
 Help: doom
-Rank all PIDs by best OOM score:  **doom best**   
-Rank all PIDs by worst OOM score:  **doom worst**   
-PID with worst OOM score:  **doom next** 
-Top 10 worst OOM scores:  **doom worst 10**  
-Top 10 best OOM scores:  **doom best 10** 
-Inspect a particular process by name(in this case chrome):  **doom inspect chrome**   
-Inspect a particular process by PID:  **doom inspect 23456**   
-Show your system's relevant OOM behaviour:  **doom policy**  
+Rank all PIDs by best OOM score:  doom best   
+Rank all PIDs by worst OOM score:  doom worst   
+PID with worst OOM score:  doom next
+Top 10 worst OOM scores:  doom worst 10  
+Top 10 best OOM scores:  doom best 10 
+Inspect a particular process by name(in this case chrome):  doom inspect chrome   
+Inspect a particular process by PID:  doom inspect 23456   
+Show your system's relevant OOM behaviour:  doom policy  
 ```
 
 
